@@ -59,6 +59,8 @@ A directive is something that creates a new syntax. It is also a marker in your 
 
 ## AngularJS View
 * Your HTML!
+<br /><br />
+![](http://www.writeraccess.com/blog/wp-content/uploads/2014/08/blog-html-5.png)
 
 ## AngularJS Controllers
 * Middleman between the Model and Controller (logic). This is your direct access from the server to the view.
